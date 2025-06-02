@@ -8,20 +8,20 @@ This repository contains three cutting-edge Python modules that provide an advan
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    Hikari AI VTuber System                   │
+│                    Hikari AI VTuber System                  │
 ├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  ┌────────────────┐  ┌─────────────────┐  ┌──────────────┐ │
-│  │   Sentiment     │  │    Context      │  │  Real-time   │ │
-│  │   Analysis      │  │    Memory       │  │  Analytics   │ │
-│  │                 │  │                 │  │              │ │
-│  │ • BERT Models   │  │ • FAISS Vectors │  │ • Prophet    │ │
-│  │ • Multi-model   │  │ • LMDB Storage  │  │ • PyTorch    │ │
-│  │ • Real-time     │  │ • Knowledge     │  │ • WebSocket  │ │
-│  │                 │  │   Graph         │  │              │ │
-│  └────────────────┘  └─────────────────┘  └──────────────┘ │
-│                             ↓                                │
-│                    Rust Engine Integration                   │
+│                                                             │
+│  ┌────────────────┐  ┌─────────────────┐  ┌──────────────┐  │
+│  │   Sentiment    │  │    Context      │  │  Real-time   │  │
+│  │   Analysis     │  │    Memory       │  │  Analytics   │  │
+│  │                │  │                 │  │              │  │
+│  │ • BERT Models  │  │ • FAISS Vectors │  │ • Prophet    │  │
+│  │ • Multi-model  │  │ • LMDB Storage  │  │ • PyTorch    │  │
+│  │ • Real-time    │  │ • Knowledge     │  │ • WebSocket  │  │
+│  │                │  │   Graph         │  │              │  │
+│  └────────────────┘  └─────────────────┘  └──────────────┘  │
+│                             ↓                               │
+│                    Rust Engine Integration                  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
