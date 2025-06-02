@@ -1,6 +1,6 @@
 # Hikari AI VTuber - Advanced ML Intelligence Layer
 
-## 🚀 Overview
+## Overview
 
 This repository contains three cutting-edge Python modules that provide an advanced Machine Learning intelligence layer for Hikari, an AI VTuber. These modules leverage the latest developments in Natural Language Processing (NLP), neural memory systems, and real-time analytics to create a sophisticated, context-aware AI companion.
 
