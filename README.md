@@ -352,9 +352,6 @@ Forecasts future metrics using Prophet.
 4. **Transformer Memory**: Attention-based memory mechanisms
 5. **AutoML Integration**: Automatic model selection and tuning
 
-## 🤝 Contributing
-
-Contributions are welcome! Please read our contributing guidelines and submit pull requests for any enhancements.
 
 ## 📝 License
 
@@ -365,7 +362,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Hugging Face for transformer models
 - Facebook AI for FAISS and Prophet
 - The PyTorch team for the excellent deep learning framework
-- The open-source community for continuous improvements
+- The Python open-source community
 
 ---
 
