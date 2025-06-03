@@ -8,7 +8,7 @@ This repository contains Python modules that provide an advanced Machine Learnin
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    Hikari AI VTuber System                  │
+│                    Hikari AI System                         │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  ┌────────────────┐  ┌─────────────────┐  ┌──────────────┐  │
