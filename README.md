@@ -135,11 +135,6 @@ python --version
 nvidia-smi
 ```
 
-### Dependencies
-```bash
-pip install -r requirements.txt
-```
-
 ### Required Packages
 ```
 torch>=1.9.0
