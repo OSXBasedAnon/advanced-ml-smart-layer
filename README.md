@@ -1,4 +1,4 @@
-# Hikari AI VTuber - Advanced ML Intelligence Layer
+# Hikari A.I. - Advanced ML Intelligence Layer
 
 ## Overview
 
