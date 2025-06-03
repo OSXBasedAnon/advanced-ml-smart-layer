@@ -196,7 +196,7 @@ Message → Queue → Background Thread → Feature Extraction →
     ↓
     ├── Sentiment Analysis (BERT)
     ├── Emotion Detection (DistilRoBERTa)
-    ├── Toxicity Check (Toxic-BERT)
+    ├── Sarcasm Check (Toxic-BERT)
     └── Context Update
     ↓
 Response Recommendation → Hikari Engine
