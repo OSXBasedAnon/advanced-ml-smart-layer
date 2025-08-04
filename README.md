@@ -74,7 +74,7 @@ This repository contains Python modules that provide an advanced Machine Learnin
 aggregate_score = (
     bert['score'] * 0.5 +      # Deep contextual understanding
     vader_normalized * 0.3 +    # Rule-based sentiment
-    emoji['score'] * 0.2        # Emotion sentiment analysis
+    emotion['score'] * 0.2        # Emotional sentiment analysis
 )
 ```
 
@@ -367,4 +367,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Built with ❤️ for Hikari A.I.
+
 
